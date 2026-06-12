@@ -1,0 +1,4 @@
+scikit-learn==1.6.1
+scikit-multiflow==0.5.3
+pandas==2.2.3
+numpy==1.23.5
